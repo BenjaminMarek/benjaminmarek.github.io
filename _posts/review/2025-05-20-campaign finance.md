@@ -2,8 +2,9 @@
 layout: post
 title: "Selling Out the Center: Campaign Finance and Political Polarization"
 date: 2025-05-20
-categories: review
 author: Ben Marek
+image: /assets/images/selling-out-the-center.png
+categories: review
 ---
 
 Since the beginning of his term, President Trump has issued two executive orders extending the TikTok sale deadline and publicly proposed creating a sovereign wealth fund with the intention of buying the app. After years of attacking TikTok in his attempts to reduce Chinese economic power and influence in the United States, including championing a ban in the final year of his presidency, this move might at first seem to be a surprising reversal. 
