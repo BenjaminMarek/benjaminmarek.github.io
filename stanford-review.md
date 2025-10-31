@@ -7,6 +7,7 @@ permalink: /review/
 # Stanford Review Articles
 
 *The Stanford Review* is Stanford's independent student newspaper, focused on fostering alternative viewpoints and rational debate.
+
 [My *Stanford Review* Profile](https://stanfordreview.org/author/ben-marek/)
 
 ### My Review Articles on This Site
