@@ -1,9 +1,6 @@
 theme: jekyll-theme-minimal
 title: Benjamin Marek
-description: Stanford 2028 | Economics and Classics
-
-social_links:
-  - name: Email
-    url: mailto:bmarek@stanford.edu
-  - name: LinkedIn
-    url: https://linkedin.com/in/b-marek
+description: >
+  Stanford 2028 | Economics and Classics <br>
+  <a href="mailto:bmarek@stanford.edu">Email</a> ·
+  <a href="https://linkedin.com/in/b-marek">LinkedIn</a>
