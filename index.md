@@ -4,7 +4,7 @@ layout: default
 
 ## Recent Thoughts
 
-<div style="max-height: 80vh; overflow-y: auto; padding-right: 1em;">
+<div style="padding-right: 1em;">
 
   {% for post in site.posts %}
     {% unless post.categories contains "review" %}
