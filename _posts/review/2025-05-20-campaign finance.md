@@ -5,8 +5,9 @@ date: 2025-05-20
 categories: review
 author: Ben Marek
 tags: [campaign finance, polarization, domestic policy, US politics]
-image: 
+image: /assets/images/selling-out-the-center.png
 ---
+
 Since the beginning of his term, President Trump has issued two executive orders extending the TikTok sale deadline and publicly proposed creating a sovereign wealth fund with the intention of buying the app. After years of attacking TikTok in his attempts to reduce Chinese economic power and influence in the United States, including championing a ban in the final year of his presidency, this move might at first seem to be a surprising reversal. 
 
 But Trump's policy switch isn't just about TikTok; his positions changed shortly after a [meeting](https://www.nytimes.com/2024/03/24/business/jeff-yass-shares-trump-media-merger.html) with key conservative donor Jeff Yass, heavily invested in TikTok. And, of course, President Trump certainly isn’t alone in switching up on his prior, [relatively popular](https://www.newsweek.com/tiktok-ban-popular-supreme-court-hearing-poll-2011947) positions to cater to wealthy interest groups—it’s part of a larger trend of political actors responding to the interests of issue-specific donors and PACs, rather than adhering to their original platforms. This issue is deeply linked to the general atmosphere of political polarization which has arisen in our country. While American voters are generally [less polarized](https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en) than they believe themselves to be, politicians and candidates tend to be highly polarized and have been growing steadily more [polarized](https://www.sciencedirect.com/science/article/pii/S0261379418301975) over the last 20 years. The key culprit? Our current campaign finance system, which encourages extremism from politicians and in political dialogue.
