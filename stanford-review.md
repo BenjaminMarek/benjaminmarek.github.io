@@ -6,9 +6,10 @@ permalink: /review/
 
 # Stanford Review Articles
 
-<a href="https://stanfordreview.org/author/ben-marek/">Stanford Review Profile</a>
+*The Stanford Review* is Stanford's independent student newspaper, focused on fostering alternative viewpoints and rational debate.
+[My *Stanford Review* Profile](https://stanfordreview.org/author/ben-marek/)
 
-### My Articles on This Site
+### My Review Articles on This Site
 
 {% for post in site.posts %}
 {% if post.categories contains "review" %}
