@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: "Addressing Risks from Presidential Retribution"
+date: 2025-04-25
+author: Ben Marek
+categories: review
+---
 
 On April 9th, the White House published a pair of presidential memoranda, cannibalizing officials from President Trump’s first administration. Those targeted include Director of the Cybersecurity and Infrastructure Security Agency Chris Krebs and former DHS Chief of Staff Miles Taylor. The orders, entitled “[Addressing Risks from Chris Krebs and Government Censorship](https://www.whitehouse.gov/presidential-actions/2025/04/addressing-risks-from-chris-krebs-and-government-censorship/)” and “[Addressing Risks Associated with an Egregious Leaker and Disseminator of Falsehoods](https://www.whitehouse.gov/presidential-actions/2025/04/addressing-risks-associated-with-an-egregious-leaker-and-disseminator-of-falsehoods/),” instruct government officials to strip Krebs, Taylor, and “individuals at entities associated,” such as the University of Pennsylvania, of federal security clearance and directs DOJ and other executive agencies to investigate their activities.
 
