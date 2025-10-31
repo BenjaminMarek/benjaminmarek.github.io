@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Hi, I’m Benjamin Marek. This site collects short analytical essays on economics, politics, and international affairs.
-
 ### Recent Essays
 
 {% for post in site.posts %}
