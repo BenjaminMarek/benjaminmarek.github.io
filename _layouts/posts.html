@@ -2,21 +2,25 @@
 layout: default
 ---
 
-<article class="post">
+<article class="post" style="max-width: 750px; margin: 0 auto;">
 
-  <h1>{{ page.title }}</h1>
+  <h1 style="font-size: 2em; font-weight: 700; margin-bottom: 0.3em;">
+    {{ page.title }}
+  </h1>
 
-  <p class="byline">
+  <p class="byline" style="font-size: 1em; color: #555; margin-top: 0;">
     <strong>{{ page.author | default: site.author }}</strong> · 
     <span>{{ page.date | date: "%B %-d, %Y" }}</span>
   </p>
 
   {% if page.image %}
-    <p style="text-align:center;">
-      <img src="{{ page.image }}" alt="{{ page.title }}" style="max-width: 90%; border-radius: 8px;">
+    <p style="text-align:center; margin: 1.5em 0;">
+      <img src="{{ page.image }}" alt="{{ page.title }}" style="max-width: 95%; border-radius: 6px;">
     </p>
   {% endif %}
 
-  {{ content }}
+  <div class="post-content" style="line-height: 1.6; font-size: 1.05em;">
+    {{ content }}
+  </div>
 
 </article>
