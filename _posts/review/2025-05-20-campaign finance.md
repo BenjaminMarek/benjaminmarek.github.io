@@ -3,7 +3,6 @@ layout: post
 title: "Selling Out the Center: Campaign Finance and Political Polarization"
 date: 2025-05-20
 author: Ben Marek
-image: /assets/images/selling-out-the-center.png
 categories: review
 ---
 
