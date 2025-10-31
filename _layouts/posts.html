@@ -2,13 +2,29 @@
 layout: default
 ---
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
+<article>
 
-<p class="view">by {{ page.author | default: site.author }}</p>
+  {% if page.image %}
+  <p style="text-align:center;">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" style="max-width:100%; border-radius:10px;">
+  </p>
+  {% endif %}
 
-{{content}}
+  <header>
+    <h1 style="margin-bottom:0.2em;">{{ page.title }}</h1>
+    <p style="font-style: italic; color:#555; margin-top:0;">
+      {{ page.author | default: site.author }} · {{ page.date | date: "%B %-d, %Y" }}
+    </p>
+  </header>
 
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
+  <div class="content">
+    {{ content }}
+  </div>
+
+  {% if page.tags %}
+  <p style="font-size:0.9em; color:#777; margin-top:2em;">
+    <strong>Tags:</strong> {{ page.tags | join: ", " }}
+  </p>
+  {% endif %}
+
+</article>
