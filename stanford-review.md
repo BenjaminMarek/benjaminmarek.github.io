@@ -10,7 +10,7 @@ permalink: /review/
 
 [My *Stanford Review* Profile](https://stanfordreview.org/author/ben-marek/)
 
-### My Review Articles on This Site
+## My Review Articles on This Site
 
 {% for post in site.posts %}
 {% if post.categories contains "review" %}
