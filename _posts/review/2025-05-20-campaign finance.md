@@ -32,4 +32,4 @@ No doubt, there is some value in having politicians with divergent, unique, new,
 
 Decisive, structural change is necessary to take on the issue of political polarization in our country. By institutionalizing a system of party-centric financing, our legislators can help elevate the reasonable middle and prevent candidates from having to sell themselves to radical interest groups.  
 
-[*Click here to view this on the Review's site*](https://stanfordreview.org/selling-out-the-center-campaign-finance-and-political-polarization/)
+[Click here to view this on the *Stanford Review* site](https://stanfordreview.org/selling-out-the-center-campaign-finance-and-political-polarization/)
