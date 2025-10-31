@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Recent Essays
+## Recent Writing
 
 {% for post in site.posts %}
   {% unless post.categories contains "review" %}
